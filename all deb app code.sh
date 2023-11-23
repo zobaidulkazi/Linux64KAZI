@@ -14,9 +14,6 @@ sudo apt install nodejs -y
 sudo apt install npm -y
 
 
-# Social 
-
-#_slack/discode/skype/
 
 # Productivity
 
@@ -27,7 +24,6 @@ sudo apt update
 # Utilities
 sudo apt install htop -y
 sudo apt install shotcut -y
-sudo apt install blender -y
 sudo apt install kolourpaint -y
 sudo apt install peruse -y
 sudo apt install gnome-dictionary -y
@@ -37,7 +33,7 @@ sudo apt install kturtle -y
 sudo apt install klettres -y
 sudo apt install kgeography -y
 sudo apt install kstars -y
-sudo apt install gccgo-go 
+sudo apt install gccgo-go
 sudo apt install golang-go
 sudo apt update
 
@@ -82,7 +78,3 @@ sudo apt install hubble
 
 
 #zobaidulkazi
-
-
-
-
